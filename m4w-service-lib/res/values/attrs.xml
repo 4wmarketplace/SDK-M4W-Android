@@ -1,0 +1,8 @@
+<resources>
+
+    <declare-styleable name="AdViewM4W">
+        <attr name="adUnitIdM4W" format="string" />
+        <attr name="adSizeM4W" format="string" />
+    </declare-styleable>
+
+</resources>
